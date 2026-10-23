@@ -51,3 +51,8 @@ cypress.config.js
 | Login Admin | `adminLogin.cy.js` | 3 (login exitoso, password incorrecta, campos vacíos) | ✅ Automatizado |
 | Reserva de habitación | `myTestRestfulBooker.cy.js` | 3 (datos válidos, teléfono inválido, email vacío) | ✅ Automatizado |
 | Envío de mensaje | `sendUsaMessage.cy.js` | 3 (datos válidos, email inválido, nombre vacío) | ✅ Automatizado |
+
+## Enlaces
+
+- **Casos de prueba (Google Sheets)**: [Casos de prueba](https://docs.google.com/spreadsheets/d/1DXDeBqRlUqNc7JJ9gzC06CTPkd7gVtjaP-TD52Ck1fs/edit?usp=sharing)
+- **Bugs (Trello)**: [Shady Meadows Bugs](https://trello.com/b/E5hh1JGh/shady-meadows-bugs)
