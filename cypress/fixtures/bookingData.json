@@ -1,0 +1,13 @@
+{
+    "bookingInfo":{
+    "bookingdates": {
+        "checkin": "2026-10-20",
+        "checkout": "2026-10-22"
+    },
+    "email": "msteph2030@gmail.com",
+    "firstname": "Carolina",
+    "lastname": "Ramirez",
+    "phone":"0051900786612",
+    "roomid": 2
+    }
+}
